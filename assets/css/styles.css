@@ -53,7 +53,12 @@ a.btn-cta-primary,
   background: #392146;
   border: 2px solid #392146;
   color: #fff;
-
+}
+.titreduhaut {
+font-size:2.5em;
+font-weight:100;
+text-shadow:0px 1px 1px black; 
+padding-top:1.5%;
 
 }
 a.btn-sub{
